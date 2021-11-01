@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ... competitive coding 
-- 🌱 I’m currently learning ... C#, .NET, JAVA
+- 🌱 I’m currently learning ... C#, .NET, Java
 - 👯 I’m looking to collaborate on ... .NET platform
 - 🤔 I’m looking for help with ... mostly backend tech
 - 💬 Ask me about ... anything
