@@ -9,5 +9,5 @@
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... (personal webpage under construction)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Finally stated the long postponed journey 
+- ⚡ Fun fact: ... Finally started the long postponed journey 
 
