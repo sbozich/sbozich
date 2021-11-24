@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ... researching learning path
+- 🔭 I’m currently working on ... .NET
 - 🌱 I’m currently learning ... C#, .NET, Java
 - 👯 I’m looking to collaborate on ... .NET platform
 - 🤔 I’m looking for help with ... mostly backend tech
