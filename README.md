@@ -7,5 +7,6 @@ I'm an IT enthusiast, passionate about:
 - Backend technologies and modules,
 - Program design.
 
-Personal website: https://medium.com/@sinisabozic
+Personal website: https://medium.com/@sinisabozic 
+<br />
 Codewars profile: https://www.codewars.com/users/sbozich
